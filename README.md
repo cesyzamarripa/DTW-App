@@ -1,10 +1,10 @@
-# 📈 DTW Stock Analyzer
+## DTW Stock Analyzer
 
 Compare two time windows of stock price data using Dynamic Time Warping (DTW). This project uses real Google stock data to demonstrate time series similarity analysis.
 
 ---
 
-## 🔧 Features
+## Features
 
 - Upload any stock CSV with columns: `Date`, `Open`, `High`, `Low`, `Close`, `Volume`
 - Select two time windows for comparison
@@ -14,7 +14,7 @@ Compare two time windows of stock price data using Dynamic Time Warping (DTW). T
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 1. Open `notebook.ipynb` in [Google Colab](https://colab.research.google.com/)
 2. Upload your CSV file (e.g., `GOOG.csv`)
@@ -27,13 +27,13 @@ Compare two time windows of stock price data using Dynamic Time Warping (DTW). T
 
 ---
 
-## 📊 Example Output
+## Example Output
 
 ![DTW Alignment Plot]
 
 ---
 
-## 📘 About DTW
+##  About DTW
 
 Dynamic Time Warping (DTW) is a technique for measuring similarity between time series that may vary in speed or length. It’s widely used in:
 
@@ -46,5 +46,5 @@ This project uses **FastDTW**, an efficient approximation of DTW, to compare sto
 
 ---
 
-## 📁 Repo Structure
+## Repo Structure
 
